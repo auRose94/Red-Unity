@@ -3046,8 +3046,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      DirtAngleRightBase: -433707239
-      Root2Mid: -1509803689
+      Branch2: 1462161051
+      Dirt: 1268767991
       GrassSlopeRightBase2: -1639172975
       DirtBottomLeft: -1641708271
       CragRight1: -1959180285
@@ -3179,11 +3179,11 @@ TextureImporter:
       RockFaceLeft3: 1790155208
       DirtSlopeLeft2: -1608459874
       RockFaceLeft1: 1808777362
-      Branch2: 1462161051
-      SunnyLand_by_Ansimuz-extended_6: -326203018
-      Dirt: 1268767991
-      DirtAngleLeftBase: 918376241
+      DirtAngleRightBase: -433707239
       RockFaceRight1: 797541798
+      Root2Mid: -1509803689
+      DirtAngleLeftBase: 918376241
+      SunnyLand_by_Ansimuz-extended_6: -326203018
       TileTop: 876822703
   spritePackingTag: 
   pSDRemoveMatte: 0
